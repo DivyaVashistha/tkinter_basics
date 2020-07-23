@@ -1,0 +1,5 @@
+City: Maharashtra
+Temperature: 303.5K
+Wind: 4.5m/s
+Humidity: 73.7%
+Sea Pressure: 1009.3mb
